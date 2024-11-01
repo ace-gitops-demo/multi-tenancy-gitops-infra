@@ -1,4 +1,4 @@
-apiVersion: operators.coreos.com/v1
+apiVersion: operator.ibm.com/v3
 kind: OperatorGroup
 metadata:
   name: ibm-common-services-operators
